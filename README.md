@@ -6,4 +6,8 @@ Capstone project for Turbin 2025 Q1
 
 ## Front End
 
-[Leptos](https://book.leptos.dev/)
+> [Leptos](https://book.leptos.dev/)
+>
+> [Awesome Leptos](https://github.com/leptos-rs/awesome-leptos)
+>
+> [Thaw UI](https://github.com/thaw-ui/thaw)
