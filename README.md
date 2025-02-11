@@ -47,3 +47,29 @@ sequenceDiagram
 
   Note over User, LotteryContract: Betting only allows rewards, not the principal staked amount.
 ```
+
+## Mindmap
+
+```mermaid
+mindmap
+  root((Staking Web3 Site on Solana))
+    User
+      - Request Staking
+      - Stake SOL
+      - Receive Rewards
+      - Bet with Rewards
+    AIAgent
+      - Analyze Platforms
+      - Recommend Staking Platform
+    Staking Platform
+      - Stake SOL with Provider
+      - Distribute Rewards
+      - Verify Rewards for Betting
+    Staking Provider
+      - Confirm Staking
+      - Distribute Staking Rewards
+      - Verify Rewards Availability
+    Lottery Contract
+      - Accept Bet with Rewards
+      - Confirm Bet
+```
