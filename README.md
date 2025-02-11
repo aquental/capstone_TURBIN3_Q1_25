@@ -16,7 +16,7 @@ Capstone project for Turbin 2025 Q1
 
 ```mermaid
 sequenceDiagram
-  participant User
+  actor User
   participant Protocol
   participant AIAgent as AI Agent
   participant StakingPlatform
